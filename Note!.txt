@@ -1,0 +1,5 @@
+Requirements :
+      1. pip install pyttsx3
+      2. pip install speech_recognition
+      3. pip install wikipedia
+      4. Import all the requirement file...
